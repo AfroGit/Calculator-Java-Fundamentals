@@ -14,7 +14,7 @@ public class GrossPayCalculator{
 
     // 2. Get the hourly pay rate.
     
-    System.out.println("Enter the hourly pat rate.");
+    System.out.println("Enter the hourly pay rate.");
     
     double payRate = scanner.nextDouble();//double commonly used for float.
     
